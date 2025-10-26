@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "gustavo-portrait",
+      "description": "Un retrato profesional de Gustavo.",
+      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
+      "imageHint": "retrato profesional"
+    },
+    {
+      "id": "project-reserly",
+      "description": "Una vista previa del sistema de reservas Reserly.",
+      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
+      "imageHint": "aplicación web"
+    },
+    {
+      "id": "project-codoviajero",
+      "description": "Una vista previa del proyecto CodoViajero 2.0",
+      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
+      "imageHint": "código backend"
+    },
+    {
+      "id": "project-maquetado",
+      "description": "Una vista previa del proyecto de maquetado web.",
+      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
+      "imageHint": "diseño web"
+    },
+    {
+      "id": "project-portfolio",
+      "description": "Una vista previa del proyecto de portafolio.",
+      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
+      "imageHint": "código abstracto"
+    }
+  ]
+}
