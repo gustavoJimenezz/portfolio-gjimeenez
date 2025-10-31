@@ -1,28 +1,28 @@
 {
   "placeholderImages": [
     {
-      "id": "gustavo-portrait",
+      "id": "activa-fitness",
       "description": "Un retrato profesional de Gustavo.",
-      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
-      "imageHint": "retrato profesional"
+      "imageUrl": "/activa-fitness.png",
+      "imageHint": "activa-fitness"
     },
     {
-      "id": "project-reserly",
+      "id": "codoViajero-codo-a-codo",
       "description": "Una vista previa del sistema de reservas Reserly.",
-      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
-      "imageHint": "aplicación web"
+      "imageUrl": "/codoViajero-codo-a-codo.png",
+      "imageHint": "codoViajero-codo-a-codo"
     },
     {
-      "id": "project-codoviajero",
+      "id": "codoViajero-codo-a-codo-2-0",
       "description": "Una vista previa del proyecto CodoViajero 2.0",
-      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
-      "imageHint": "código backend"
+      "imageUrl": "/codoViajero-codo-a-codo-2-0.png",
+      "imageHint": "codoViajero-codo-a-codo-2-0"
     },
     {
-      "id": "project-maquetado",
+      "id": "maqueta-dave",
       "description": "Una vista previa del proyecto de maquetado web.",
-      "imageUrl": "https://es.wikipedia.org/wiki/Historia_de_Python#/media/Archivo:Python-logo-notext.svg",
-      "imageHint": "diseño web"
+      "imageUrl": "/maqueta-dave.png",
+      "imageHint": "maqueta-dave"
     },
     {
       "id": "project-portfolio",

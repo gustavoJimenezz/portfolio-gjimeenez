@@ -14,7 +14,7 @@ export default function About() {
              Soy Gustavo, Desarrollador Full Stack en Buenos Aires. Me dedico a construir software robusto. Mis herramientas principales son Python (Django/Flask) y Node.js en el backend, y React en el frontend.
             </p>
             <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Mi experiencia laboral me permitió dominar patrones de diseño y la gestión de despliegues en Linux. Estoy listo para colaborar activamente en la creación de soluciones, aportar mi conocimiento. Busco aportar soluciones escalables y colaborar activamente en entornos de trabajo ágiles.
+              Mi experiencia me dio dominio en patrones de diseño y la administración de servicios. Busco aportar soluciones escalables, colaborar activamente en la creación de soluciones y sumar mi conocimiento. Mi perfil se integra sin problemas a cualquier tecnología que el equipo requiera en un entorno de trabajo ágil.
             </p>
           </div>
           <div className="flex items-start justify-center">

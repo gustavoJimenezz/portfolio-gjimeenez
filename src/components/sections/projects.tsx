@@ -14,34 +14,35 @@ type Project = {
 };
 
 const projectData: Project[] = [
+    {
+    name: "Proyecto Final Colaborativo",
+    description: "Proyecto Final de curso desarrollado en colaboración, que culmina la aplicación de un stack completo de tecnologías. Demuestra trabajo en equipo (Git/GitHub) e integración de módulos.",
+    techStack: ["Node.js", "React", "Git", "GitHub"],
+    githubRepoUrl: "https://activafitness.com.ar/",
+    imageId: 'activa-fitness',
+  },
   {
     name: "Sistema de Reservas Full Stack (Core)",
     description: "Desarrollo integral de una plataforma de reservas web. Backend con Node.js/Express (MVC, APIs REST, JWT). Base de datos MySQL con Sequelize.",
     techStack: ["Node.js", "Express", "React", "MySQL", "Sequelize", "APIs REST", "JWT"],
     githubRepoUrl: "https://github.com/gustavoJimenezz/codo-a-codo-trabajo-practico-integrador-CodoViajero-nodejs",
-    imageId: 'project-reserly',
+    imageId: 'codoViajero-codo-a-codo',
   },
   {
     name: "CodoViajero 2.0: Módulo Backend",
     description: "Versión avanzada del backend en Node.js, centrada en la optimización de las APIs, la lógica de negocio y la eficiencia de las consultas a la base de datos.",
     techStack: ["Node.js", "Express", "MySQL", "Sequelize"],
     githubRepoUrl: "https://github.com/gustavoJimenezz/codo-a-codo-codoViajero-2.0-nodejs",
-    imageId: 'project-codoviajero',
+    imageId: 'codoViajero-codo-a-codo-2-0',
   },
-  {
+  {  
     name: "Maquetado Web Estático y Responsive",
     description: "Demostración de habilidades de Diseño Web y Responsive sin dependencias de frameworks complejos. Dominio de HTML5 (semántica) y CSS3 para la creación de diseños atractivos y flexibles.",
     techStack: ["HTML5", "CSS3"],
     githubRepoUrl: "https://github.com/gustavoJimenezz/maquteado-web-css-html",
-    imageId: 'project-maquetado',
+    imageId: 'maqueta-dave',
   },
-  {
-    name: "Proyecto Final Colaborativo",
-    description: "Proyecto Final de curso desarrollado en colaboración, que culmina la aplicación de un stack completo de tecnologías. Demuestra trabajo en equipo (Git/GitHub) e integración de módulos.",
-    techStack: ["Node.js", "React", "Git", "GitHub"],
-    githubRepoUrl: "https://github.com/gustavoJimenezz/proyectoFinal.io",
-    imageId: 'project-portfolio',
-  }
+
 ];
 
 export default function Projects() {
