@@ -7,12 +7,6 @@
       "imageHint": "activa-fitness"
     },
     {
-      "id": "codoViajero-codo-a-codo",
-      "description": "Una vista previa del sistema de reservas Reserly.",
-      "imageUrl": "/codoViajero-codo-a-codo.png",
-      "imageHint": "codoViajero-codo-a-codo"
-    },
-    {
       "id": "codoViajero-codo-a-codo-2-0",
       "description": "Una vista previa del proyecto CodoViajero 2.0",
       "imageUrl": "/codoViajero-codo-a-codo-2-0.png",
@@ -23,6 +17,12 @@
       "description": "Una vista previa del proyecto de maquetado web.",
       "imageUrl": "/maqueta-dave.png",
       "imageHint": "maqueta-dave"
+    },
+    {
+      "id": "codoViajero-codo-a-codo",
+      "description": "Una vista previa del sistema de reservas Reserly.",
+      "imageUrl": "/codoViajero-codo-a-codo.png",
+      "imageHint": "codoViajero-codo-a-codo"
     },
     {
       "id": "project-portfolio",

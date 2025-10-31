@@ -25,8 +25,10 @@ export default function About() {
                   <CardTitle>Información Personal</CardTitle>
                 </div>
               </CardHeader>
+
+              {/* Información Personal */}
               <CardContent className="space-y-2 text-sm">
-                <p><strong>Nombre:</strong> Gustavo Jimenez Crespo</p>
+                <p><strong>Nombre:</strong> Gustavo Jimenez Crespo  17/10/1995</p>
                 <p><strong>Email:</strong> gustavo.jimenez.crespo@gmail.com</p>
                 <p><strong>Teléfono:</strong> 1161025274</p>
                 <p><strong>Ubicación:</strong> Lomas de Zamora, Buenos Aires</p>

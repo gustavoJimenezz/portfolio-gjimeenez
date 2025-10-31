@@ -22,13 +22,6 @@ const projectData: Project[] = [
     imageId: 'activa-fitness',
   },
   {
-    name: "Sistema de Reservas Full Stack (Core)",
-    description: "Desarrollo integral de una plataforma de reservas web. Backend con Node.js/Express (MVC, APIs REST, JWT). Base de datos MySQL con Sequelize.",
-    techStack: ["Node.js", "Express", "React", "MySQL", "Sequelize", "APIs REST", "JWT"],
-    githubRepoUrl: "https://github.com/gustavoJimenezz/codo-a-codo-trabajo-practico-integrador-CodoViajero-nodejs",
-    imageId: 'codoViajero-codo-a-codo',
-  },
-  {
     name: "CodoViajero 2.0: Módulo Backend",
     description: "Versión avanzada del backend en Node.js, centrada en la optimización de las APIs, la lógica de negocio y la eficiencia de las consultas a la base de datos.",
     techStack: ["Node.js", "Express", "MySQL", "Sequelize"],
@@ -42,7 +35,13 @@ const projectData: Project[] = [
     githubRepoUrl: "https://github.com/gustavoJimenezz/maquteado-web-css-html",
     imageId: 'maqueta-dave',
   },
-
+  {
+    name: "Sistema de Reservas Full Stack (Core)",
+    description: "Desarrollo integral de una plataforma de reservas web. Backend con Node.js/Express (MVC, APIs REST, JWT). Base de datos MySQL con Sequelize.",
+    techStack: ["Node.js", "Express", "React", "MySQL", "Sequelize", "APIs REST", "JWT"],
+    githubRepoUrl: "https://github.com/gustavoJimenezz/codo-a-codo-trabajo-practico-integrador-CodoViajero-nodejs",
+    imageId: 'codoViajero-codo-a-codo',
+  },
 ];
 
 export default function Projects() {
